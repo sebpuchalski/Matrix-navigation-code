@@ -1,2 +1,3 @@
 # Matrix-navigation-code
-This code creates a two dimensional matrix and allows for interactive control of object on the matrix.
+This code creates a two dimensional matrix with randomly distributed obstacles.
+The code allows to navigate the matrix in pursue of obstacles.
